@@ -1,0 +1,60 @@
+[
+    {
+        "isbn": "9780140449136",
+        "title": "The Iliad",
+        "author": "Homer"
+    },
+    {
+        "isbn": "9780140449266",
+        "title": "The Odyssey",
+        "author": "Homer"
+    },
+    {
+        "isbn": "9780451524935",
+        "title": "1984",
+        "author": "George Orwell",
+        "review": "A chilling vision of a dystopian future."
+    },
+    {
+        "isbn": "9780743273565",
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "review": "A critique of the American Dream in the Jazz Age."
+    },
+    {
+        "isbn": "9780061120084",
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "review": "A powerful exploration of racial injustice."
+    },
+    {
+        "isbn": "9780140447934",
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "review": "A psychological study of morality and redemption."
+    },
+    {
+        "isbn": "9780140449440",
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "review": "An epic tale of history, love, and conflict."
+    },
+    {
+        "isbn": "9780142437339",
+        "title": "Moby-Dick",
+        "author": "Herman Melville",
+        "review": "A gripping story of obsession and revenge."
+    },
+    {
+        "isbn": "9780143125426",
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "review": "A journey into the mind of a disaffected teenager."
+    },
+    {
+        "isbn": "9780060883287",
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "review": "A profound look at a utopian dystopia."
+    }
+]
